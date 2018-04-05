@@ -1,0 +1,30 @@
+@import url("//hello.myfonts.net/count/33fd8c");
+
+@font-face {
+    font-family: 'TradeGothicLTStd-Extended';
+    font-weight: 700;
+    src: url('33FD8C_0_0.eot');
+    src: url('33FD8C_0_0.eot?#iefix') format('embedded-opentype'),
+         url('33FD8C_0_0.woff2') format('woff2'),
+         url('33FD8C_0_0.woff') format('woff'),
+         url('33FD8C_0_0.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'TradeGothicLTStd-Extended';
+    font-weight: normal;
+    src: url('33FD8C_1_0.eot');
+    src: url('33FD8C_1_0.eot?#iefix') format('embedded-opentype'),
+         url('33FD8C_1_0.woff2') format('woff2'),
+         url('33FD8C_1_0.woff') format('woff'),
+         url('33FD8C_1_0.ttf') format('truetype');
+}
+
+font-family: 'TradeGothicLTStd-Extended', sans-serif;
+
+
+<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7658996/6982372/css/fonts.css" />
+
+font-family: 'Chronicle Display A', 'Chronicle Display B', sans-serif;
+font-family: 'Gotham SSm A', 'Gotham SSm B', sans-serif;
